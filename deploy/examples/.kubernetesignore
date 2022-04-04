@@ -1,2 +1,2 @@
 *
-!my-cluster.yaml
+!crds.yaml common.yaml operator.yaml my-cluster.yaml 
