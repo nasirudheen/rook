@@ -298,7 +298,7 @@ spec:
 
 
     nodes:
-    - name: "192.168.122.23"
+    - name: "192.168.122.13"
       devices:
       - name: "/dev/sda"
       - name: "/dev/sdb"
@@ -306,7 +306,7 @@ spec:
       config:
         storeType: bluestore
 
-    - name: "192.168.122.24"
+    - name: "192.168.122.14"
       devices:
       - name: "/dev/sda"
       - name: "/dev/sdb"
@@ -314,7 +314,7 @@ spec:
       config:
         storeType: bluestore
 
-    - name: "192.168.122.25"
+    - name: "192.168.122.15"
       devices:
       - name: "/dev/sda"
       - name: "/dev/sdb"
@@ -322,7 +322,7 @@ spec:
       config:
         storeType: bluestore
 
-    - name: "192.168.122.26"
+    - name: "192.168.122.16"
       devices:
       - name: "/dev/sda"
       - name: "/dev/sdb"
