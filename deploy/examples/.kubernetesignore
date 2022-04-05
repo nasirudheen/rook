@@ -10,7 +10,6 @@ cluster-stretched-aws.yaml
 cluster-stretched.yaml
 cluster-test.yaml
 cluster.yaml
-common.yaml
 common-external.yaml
 common-second-cluster.yaml
 create-external-cluster-resources.py
