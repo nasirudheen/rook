@@ -1,6 +1,5 @@
 operator.yaml
 crds.yaml
-my-cluster.yaml
 bucket-notification-endpoint.yaml
 bucket-notification.yaml
 bucket-topic.yaml
