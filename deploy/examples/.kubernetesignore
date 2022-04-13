@@ -34,7 +34,6 @@ monitoring
 mysql.yaml
 nfs-test.yaml
 nfs.yaml
-object-bucket-claim-delete.yaml
 object-bucket-claim-notification.yaml
 object-bucket-claim-retain.yaml
 object-ec.yaml
