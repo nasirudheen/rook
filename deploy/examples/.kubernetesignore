@@ -28,7 +28,6 @@ direct-mount.yaml
 filesystem-ec.yaml
 filesystem-mirror.yaml
 filesystem-test.yaml
-filesystem.yaml
 images.txt
 import-external-cluster.sh
 monitoring
