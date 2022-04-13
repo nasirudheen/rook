@@ -46,7 +46,6 @@ object-multisite.yaml
 object-openshift.yaml
 object-test.yaml
 object-user.yaml
-object.yaml
 operator-openshift.yaml
 osd-env-override.yaml
 osd-purge.yaml
