@@ -1,3 +1,6 @@
+crds.yaml
+common.yaml
+operator.yaml
 bucket-notification-endpoint.yaml
 bucket-notification.yaml
 bucket-topic.yaml
